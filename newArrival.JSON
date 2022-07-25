@@ -46,7 +46,7 @@
     },
     {
         "id":6,
-        "image": "blob/master/assets/shop/1.jpg",
+        "image": "/blob/master/assets/shop/1.jpg",
         "name": "T-Shirt",
         "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
         "price":"160",
@@ -55,7 +55,7 @@
     },
     {
         "id":7,
-        "image": "blob/master/assets/shop/3.jpg",
+        "image": "/blob/master/assets/shop/3.jpg",
         "name": "Side Bag",
         "Description": "Bata Power endorses style that strikes a fine balance between the classic and the modern, the discreet and the bold with good taste being the only criterion for selection.",
         "price":"459",
